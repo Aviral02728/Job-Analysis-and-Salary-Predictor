@@ -1,5 +1,6 @@
 beautifulsoup4
 flask
+gunicorn
 joblib
 matplotlib
 numpy
