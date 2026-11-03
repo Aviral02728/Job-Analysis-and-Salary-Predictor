@@ -1,0 +1,118 @@
+{
+  "best_model": "Gradient Boosting",
+  "cv_comparison": [
+    {
+      "Model": "Baseline (median)",
+      "CV_R2": -0.011,
+      "R2_std": 0.016,
+      "CV_RMSE": 70802.934,
+      "CV_MAE": 55120.664
+    },
+    {
+      "Model": "Ridge",
+      "CV_R2": 0.095,
+      "R2_std": 0.117,
+      "CV_RMSE": 66792.954,
+      "CV_MAE": 50890.857
+    },
+    {
+      "Model": "Random Forest",
+      "CV_R2": 0.198,
+      "R2_std": 0.072,
+      "CV_RMSE": 63104.331,
+      "CV_MAE": 47528.264
+    },
+    {
+      "Model": "Gradient Boosting",
+      "CV_R2": 0.251,
+      "R2_std": 0.079,
+      "CV_RMSE": 60906.531,
+      "CV_MAE": 46141.988
+    }
+  ],
+  "holdout": {
+    "R2": 0.3559639280118698,
+    "RMSE": 58584.65480463996,
+    "MAE": 44970.59649554156
+  },
+  "training_rows": 492,
+  "interval_log_q10": -0.5192738459048946,
+  "interval_log_q90": 0.48085004924657104,
+  "levels": [
+    "Entry",
+    "Mid",
+    "Senior",
+    "Lead/Director"
+  ],
+  "domains": [
+    "Customer Support",
+    "Cybersecurity",
+    "Data Science & Analytics",
+    "DevOps & Infrastructure",
+    "Finance & Accounting",
+    "Other",
+    "Product & Operations",
+    "Project & Program Management",
+    "Sales & Marketing",
+    "Software Engineering"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power_BI",
+    "Tableau",
+    "Machine_Learning",
+    "Artificial_Intelligence",
+    "Java",
+    "JavaScript",
+    "React",
+    "Nodejs",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "Spark",
+    "PostgreSQL",
+    "MySQL",
+    "TensorFlow",
+    "PyTorch",
+    "Statistics",
+    "NLP"
+  ],
+  "skill_cols": [
+    "Skill_Python",
+    "Skill_SQL",
+    "Skill_Excel",
+    "Skill_Power_BI",
+    "Skill_Tableau",
+    "Skill_Machine_Learning",
+    "Skill_Artificial_Intelligence",
+    "Skill_Java",
+    "Skill_JavaScript",
+    "Skill_React",
+    "Skill_Nodejs",
+    "Skill_AWS",
+    "Skill_Azure",
+    "Skill_GCP",
+    "Skill_Docker",
+    "Skill_Kubernetes",
+    "Skill_Git",
+    "Skill_Spark",
+    "Skill_PostgreSQL",
+    "Skill_MySQL",
+    "Skill_TensorFlow",
+    "Skill_PyTorch",
+    "Skill_Statistics",
+    "Skill_NLP"
+  ],
+  "median_exp_by_level": {
+    "Entry": 2.0,
+    "Lead/Director": 7.0,
+    "Mid": 4.5,
+    "Senior": 5.0,
+    "Unspecified": 4.0
+  }
+}

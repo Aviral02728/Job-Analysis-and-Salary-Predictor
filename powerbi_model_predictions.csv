@@ -1,0 +1,493 @@
+Job_ID,Job_Title,Company,Seniority,Domain,Experience_Years,Skill_Count,Annual_Salary_USD_clean,Predicted_Salary_USD,Error_USD,Abs_Pct_Error
+154029,Senior Implementation Project Manager,Launchpad Technologies,Senior,Project & Program Management,5.0,0,48000.0,138702.0,90702.0,1.89
+153663,Freelance Software Tester With Apple Vision Pro (Remote Worldwide),Testlio,Unspecified,Software Engineering,18.0,0,37440.0,150121.0,112681.0,3.01
+153550,Senior Revenue Operations Analyst,Instructure,Lead/Director,Data Science & Analytics,7.0,3,38880.0,189343.0,150463.0,3.87
+152625,Software Engineer II - Poland,Housecall Pro,Senior,Software Engineering,3.5,2,71400.0,136946.0,65546.0,0.918
+152446,Functional Consultant (Finance Systems / ERP Implementation),Launchpad Technologies,Senior,Project & Program Management,5.0,2,48000.0,139574.0,91574.0,1.908
+151870,Account Executive Mid-Market - Italy,Alma,Lead/Director,Sales & Marketing,4.0,0,83160.0,111198.0,28038.0,0.337
+151608,ERP System Administrator (Acumatica),Alimentiv,Senior,DevOps & Infrastructure,5.0,1,75920.0,148040.0,72120.0,0.95
+149963,Business Consultant,Autodesk,Unspecified,Sales & Marketing,4.0,1,85100.0,127379.0,42279.0,0.497
+151773,Demo Engineer,Bloomreach,Senior,Software Engineering,5.0,5,50760.0,177341.0,126581.0,2.494
+151711,"Staff Backend Engineer, AI Systems",Mural,Senior,Software Engineering,7.0,4,157756.86000000002,197740.0,39983.0,0.253
+151703,"Senior Software Engineer, Canvas Core",Mural,Senior,Software Engineering,6.0,4,117729.0,164354.0,46625.0,0.396
+151676,"Sales Director, DACH",Sierra,Lead/Director,Sales & Marketing,18.0,1,267300.0,257621.0,-9679.0,0.036
+151668,"Strategist, Agent Development (French speaking)",Sierra,Unspecified,Product & Operations,18.0,1,164700.0,209008.0,44308.0,0.269
+154084,"Staff Engineer, Full Stack (Trust, Safety & Risk)",Phantom,Senior,Software Engineering,8.0,1,225000.0,205054.0,-19946.0,0.089
+154078,Staff Platform Security Engineer (Security),Phantom,Senior,Cybersecurity,7.0,5,225000.0,229036.0,4036.0,0.018
+154067,"Analytics Engineer, Data",Tailscale,Unspecified,Data Science & Analytics,4.0,3,167272.19999999998,143209.0,-24063.0,0.144
+151630,Chief Product Technology Officer - Classter,Banyan Software,Lead/Director,Product & Operations,7.0,2,118800.00000000001,191021.0,72221.0,0.608
+151620,Engineering Manager - UK,Ashby,Lead/Director,Software Engineering,7.0,4,196850.0,251458.0,54608.0,0.277
+151638,Engineering Manager - Americas,Ashby,Lead/Director,Software Engineering,4.0,1,247500.0,168450.0,-79050.0,0.319
+151633,Engineering Manager - Canada,Ashby,Lead/Director,Software Engineering,4.0,1,171550.0,168450.0,-3100.0,0.018
+151627,Enterprise Account Executive - DACH,Ashby,Lead/Director,Sales & Marketing,5.0,2,264870.0,144809.0,-120061.0,0.453
+151629,"Engineering Manager, RC Capital",RevenueCat,Senior,Software Engineering,6.0,1,230000.0,142001.0,-87999.0,0.383
+151545,"Senior Product Manager, Funnels/Workflow",RevenueCat,Senior,Product & Operations,5.0,2,230000.0,154352.0,-75648.0,0.329
+151564,Sales Executive New Business - Nordics,Emburse,Lead/Director,Sales & Marketing,8.0,1,135255.0,180541.0,45286.0,0.335
+149664,"Senior Product Manager, Ads Quality",Instacart,Senior,Product & Operations,2.0,1,123735.0,89310.0,-34425.0,0.278
+151449,Lifecycle Senior Specialist (OHS): Contract Management,Remote,Senior,Other,5.0,1,60525.0,157581.0,97056.0,1.604
+151448,Global Payroll Implementation Country Lead - Germany,Remote,Senior,Finance & Accounting,5.0,2,82431.0,118720.0,36289.0,0.44
+151447,"Senior Specialist, Global Benefits Risk & Compliance",Remote,Senior,Other,5.0,1,75025.0,157581.0,82556.0,1.1
+149641,"Customer Success Engineer, LATAM (Spanish, Portugese)",GitLab,Senior,Customer Support,5.0,1,132000.0,99280.0,-32720.0,0.248
+151541,"AI Transformation Owner, Product & Design",GitLab,Lead/Director,Product & Operations,7.0,1,274400.0,216275.0,-58125.0,0.212
+151538,Sales Engineer (French) SMB,1Password,Senior,Sales & Marketing,2.0,9,73025.0,145127.0,72102.0,0.987
+151533,Account Executive Enterprise (Italian and/or Spanish),1Password,Lead/Director,Sales & Marketing,5.0,3,135255.0,199201.0,63946.0,0.473
+154044,"Staff Product Designer, Retail Classic",Lightspeed Commerce,Senior,Other,8.0,1,116800.0,163877.0,47077.0,0.403
+154041,Account Manager (Remote - Mexico),Housecall Pro,Unspecified,Sales & Marketing,2.0,1,36000.0,82583.0,46583.0,1.294
+154034,Contract Staff Front End Engineer (Web Conference/Screen Sharing),Mozilla,Senior,Software Engineering,4.0,2,115267.0,148638.0,33371.0,0.29
+154027,Lead Automation Engineer,Capital on Tap,Senior,Software Engineering,5.0,4,75600.0,150301.0,74701.0,0.988
+154031,Software Engineer,Capital on Tap,Unspecified,Software Engineering,3.0,5,51300.0,90759.0,39459.0,0.769
+154019,Senior Strategic Implementation Specialist - EMEA,Ashby,Lead/Director,Project & Program Management,7.0,1,143100.0,214617.0,71517.0,0.5
+154015,Support Engineer I - UK,ExtraHop,Senior,Customer Support,5.0,2,41275.0,105873.0,64598.0,1.565
+154021,Design Engineer - EU,Ashby,Lead/Director,Other,2.0,4,142560.0,174575.0,32015.0,0.225
+154023,Design Engineer - UK,Ashby,Lead/Director,Other,2.0,4,172720.0,174575.0,1855.0,0.011
+154007,"Associate Director / Director, Data Strategy & Measurement",Acceleration Partners,Lead/Director,Data Science & Analytics,1.0,4,95250.0,116171.0,20921.0,0.22
+154008,Senior Product Designer,TrustedHousesitters,Senior,Other,5.0,1,95250.0,157581.0,62331.0,0.654
+151502,"Front End Engineering Manager, Firefox Desktop",Mozilla,Senior,Software Engineering,20.0,2,134685.0,122907.0,-11778.0,0.087
+151466,Background Investigator,CertiK,Unspecified,Other,3.0,2,80000.0,93704.0,13704.0,0.171
+153953,VP of IT Infrastructure & Operations,Serve Robotics,Lead/Director,DevOps & Infrastructure,15.0,1,270000.0,260600.0,-9400.0,0.035
+153948,Lead Machine Learning Engineer,Serve Robotics,Senior,Data Science & Analytics,5.0,3,242500.0,192909.0,-49591.0,0.204
+153939,"Senior Machine Learning Engineer, Ads - Quora",Quora,Senior,Data Science & Analytics,4.0,5,232055.5,184585.0,-47470.0,0.205
+153935,Staff Data Scientist - Quora,Quora,Senior,Data Science & Analytics,7.0,3,201826.0,213474.0,11648.0,0.058
+151403,"Director, Customer Operations Vendor Strategy & Execution",Affirm,Lead/Director,Customer Support,15.0,1,174470.0,188846.0,14376.0,0.082
+151404,Mid-Market Customer Success Manager - EMEA,Ashby,Mid,Customer Support,4.0,1,81000.0,96390.0,15390.0,0.19
+149527,"Web Frontend Engineer - JS, CSS, React, Flutter",Canonical,Unspecified,Software Engineering,4.0,4,59000.0,173719.0,114719.0,1.944
+153907,"Sales Engineer, Storage & Analysis (EMEA)",Cribl,Unspecified,Sales & Marketing,4.0,1,133985.0,127379.0,-6606.0,0.049
+153905,"Backend Engineer, Control Plane",Tailscale,Unspecified,Software Engineering,4.0,3,195141.85,144486.0,-50656.0,0.26
+153899,"Senior Software Engineer, Add-Ons",Mozilla,Senior,Software Engineering,20.0,6,56700.00000000001,144523.0,87823.0,1.549
+153861,Staff Product Security Engineer (Security),Phantom,Senior,Cybersecurity,5.0,5,225000.0,234938.0,9938.0,0.044
+153647,"Staff Software Backend Engineer, Tech Lead - Foundations",NetBox Labs,Senior,Software Engineering,7.0,3,225000.0,241896.0,16896.0,0.075
+153840,"Director, Product Growth",Roofr,Lead/Director,Product & Operations,12.0,1,275000.0,247566.0,-27434.0,0.1
+153829,"Design Engineer, Site",infisical,Unspecified,Software Engineering,4.0,5,140000.0,174000.0,34000.0,0.243
+151290,Senior Software Engineer,Tremendous,Senior,Software Engineering,5.0,2,215000.0,154880.0,-60120.0,0.28
+147134,Customer Engineer,Nebius,Unspecified,Customer Support,5.0,8,201900.0,173434.0,-28466.0,0.141
+153749,Customer Evidence Manager,Dropbox,Lead/Director,Sales & Marketing,8.0,1,122640.0,180541.0,57901.0,0.472
+153707,"Senior .NET Developer, SaaS Manager",1Password,Senior,Software Engineering,5.0,4,183500.0,192078.0,8578.0,0.047
+153700,"Senior Security Engineer, Incident Response",1Password,Lead/Director,Cybersecurity,5.0,4,183500.0,230140.0,46640.0,0.254
+153644,"Director, Sales Operations - EMEA and APJ",Chainguard,Lead/Director,Product & Operations,10.0,4,238125.0,226861.0,-11264.0,0.047
+153639,Security Engineer,Roboflow,Senior,Cybersecurity,6.0,5,182500.0,235723.0,53223.0,0.292
+153629,"Manager, Software Engineering, Operations",Jobber,Lead/Director,Software Engineering,7.0,2,145306.5,254952.0,109646.0,0.755
+151079,Compliance Manager (Australia),Affirm,Lead/Director,Other,8.0,0,110500.0,167754.0,57254.0,0.518
+151166,Principal Revenue Operations Manager,Jobber,Lead/Director,Sales & Marketing,7.0,5,177850.0,175648.0,-2202.0,0.012
+146796,Engineering Project and QA Manager,CodePath,Mid,Project & Program Management,4.0,1,159000.0,123828.0,-35172.0,0.221
+145850,Technical Program Manager,Phaidra,Mid,Project & Program Management,5.0,2,90864.56,176314.0,85449.0,0.94
+150975,Backend Software Engineer,Northflank,Mid,Software Engineering,3.0,8,113665.0,118047.0,4382.0,0.039
+153561,Technical Consultant,WorkWave,Unspecified,Software Engineering,3.0,6,53975.0,91715.0,37740.0,0.699
+153548,Senior Business Consultant w/ French,Bloomreach,Senior,Customer Support,2.0,1,43064.5,51283.0,8218.0,0.191
+153545,"Senior Software Developer, API Platform and Ecosystem",MaintainX,Senior,Software Engineering,4.0,2,99280.0,160307.0,61027.0,0.615
+150941,Senior Customer Support Operations Readiness Program Manager,Mercury,Senior,Project & Program Management,4.0,1,130800.0,122088.0,-8712.0,0.067
+153534,Senior Software Engineer - Workflow,Cloudbeds,Senior,Software Engineering,5.0,7,152500.0,188810.0,36310.0,0.238
+153532,Senior Software Engineer,Cloudbeds,Senior,Software Engineering,5.0,9,145000.0,182511.0,37511.0,0.259
+153501,"Staff Software Engineer, Identity and Access Management",Kong Inc.,Senior,Software Engineering,7.0,1,149462.025,220664.0,71202.0,0.476
+153485,Infrastructure Software Engineer,Dropbox,Unspecified,DevOps & Infrastructure,5.0,2,80000.0,169678.0,89678.0,1.121
+150933,Senior Software Engineer (Elixir),Sona,Senior,Software Engineering,5.0,2,120650.0,185800.0,65150.0,0.54
+150907,"Director, Software Engineering (AI Workflows & Ecosystem)",Jobber,Lead/Director,Software Engineering,7.0,1,190493.5,241043.0,50550.0,0.265
+150930,Senior Machine Learning Engineer,Sona,Senior,Data Science & Analytics,5.0,5,130175.0,197081.0,66906.0,0.514
+150910,Payments GTM (Go-to-Market) Operations and Strategy Lead,Jobber,Lead/Director,Product & Operations,7.0,1,129830.5,177473.0,47642.0,0.367
+153382,Agile Coach (FTC),TrustedHousesitters,Unspecified,Project & Program Management,4.0,1,63500.0,142448.0,78948.0,1.243
+153386,"Product Manager II, Wholesale Network",Lightspeed Commerce,Senior,Product & Operations,3.0,2,87600.0,103283.0,15683.0,0.179
+153385,Lead Strategic Financial Analyst,Lightspeed Commerce,Lead/Director,Finance & Accounting,7.0,2,96725.0,167210.0,70485.0,0.729
+153371,"Director of Product, AML & Digital Asset Compliance",CertiK,Lead/Director,Product & Operations,7.0,1,185000.0,216275.0,31275.0,0.169
+153357,Analytics Engineer II,Instacart,Unspecified,Data Science & Analytics,5.0,3,104207.5,178700.0,74492.0,0.715
+145953,"Credit Risk Manager, Portfolio Management",Monzo,Mid,Finance & Accounting,16.5,2,165100.0,149237.0,-15863.0,0.096
+150846,Software Engineer,Sticker Mule,Unspecified,Software Engineering,4.0,4,200000.0,185365.0,-14635.0,0.073
+150818,"Director, Growth Marketing",League,Lead/Director,Sales & Marketing,7.0,3,114975.0,193062.0,78087.0,0.679
+150687,Engineering Manager - EU,Ashby,Lead/Director,Software Engineering,7.0,4,159300.0,251458.0,92158.0,0.579
+153263,Analytics Engineer II,Affirm,Unspecified,Data Science & Analytics,3.0,4,71500.0,98147.0,26647.0,0.373
+153266,"Analytics Lead, Full Stack",Affirm,Senior,Data Science & Analytics,5.0,4,173990.0,175340.0,1350.0,0.008
+153258,"Analyst II, Full Stack (Revenue Analytics)",Affirm,Unspecified,Data Science & Analytics,3.0,5,87480.0,90322.0,2842.0,0.032
+153239,Commercial Account Executive UKI,1Password,Lead/Director,Sales & Marketing,4.0,3,80645.0,177772.0,97127.0,1.204
+153244,Sr Manager Sales Acceleration,1Password,Lead/Director,Sales & Marketing,8.0,3,175895.0,195737.0,19842.0,0.113
+153205,Senior+ Backend Software Engineer - Canada,Palmstreet,Senior,Software Engineering,5.0,2,164250.0,176530.0,12280.0,0.075
+153195,Senior+ Backend Software Engineer - Asia,Palmstreet,Senior,Software Engineering,5.0,8,112000.00000000001,180146.0,68146.0,0.608
+145877,Senior Solutions Consultant,Bloomreach,Senior,Customer Support,5.0,2,46730.24999999999,110780.0,64050.0,1.371
+149142,"Senior Editor, Energy and Sustainability, Deloitte Global Insight",Deloitte,Senior,Other,8.0,3,116435.0,139410.0,22975.0,0.197
+149141,"Senior Editor, AI and Technology, Deloitte Global Insights",Deloitte,Senior,Other,8.0,3,116435.0,139410.0,22975.0,0.197
+153134,Staff Software Engineer (SRE),Phantom,Senior,DevOps & Infrastructure,8.0,4,225000.0,167857.0,-57143.0,0.254
+153122,Chief Technology Officer,GiveDirectly,Lead/Director,Software Engineering,7.0,2,337500.0,221454.0,-116046.0,0.344
+153123,"Manager, Security Incident Response",1Password,Senior,Cybersecurity,5.0,3,235000.0,213982.0,-21018.0,0.089
+153118,Senior GTM Engineering Analyst,1Password,Lead/Director,Data Science & Analytics,4.0,6,135500.0,152727.0,17227.0,0.127
+149090,EDD Analyst,Remote,Unspecified,Finance & Accounting,4.0,1,71280.0,103692.0,32412.0,0.455
+153099,"Manager, GTM Analytics",Zapier,Lead/Director,Data Science & Analytics,6.0,3,217750.0,169271.0,-48479.0,0.223
+153093,Team Lead Software Engineer,Capital on Tap,Senior,Software Engineering,5.0,2,86400.0,148344.0,61944.0,0.717
+153088,Senior Software Engineer,Capital on Tap,Senior,Software Engineering,5.0,5,67500.0,127740.0,60240.0,0.892
+153082,HR AI & Automation Operations Lead,Remote,Senior,Other,5.0,5,87975.0,114668.0,26693.0,0.303
+153061,Application Support / SQL - (12 Month Maternity-leave Contract),Varicent,Senior,Customer Support,1.0,2,32307.0,61285.0,28978.0,0.897
+153067,"Analyst II, Credit",Affirm,Unspecified,Finance & Accounting,3.0,0,90170.0,69183.0,-20987.0,0.233
+153062,Staff Platform Engineer - UK,Ashby,Senior,DevOps & Infrastructure,4.0,7,212725.0,153836.0,-58889.0,0.277
+153066,Lead Software Engineer,CoderPad,Senior,Software Engineering,6.0,7,75600.0,187738.0,112138.0,1.483
+153017,Regional Sales Manager | Canada,ExtraHop,Senior,Sales & Marketing,5.0,1,149650.0,151118.0,1468.0,0.01
+153011,Principal Sales Engineer | Canada,ExtraHop,Lead/Director,Sales & Marketing,12.0,4,135050.0,258048.0,122998.0,0.911
+152994,Director of Customer Support,Cloudbeds,Lead/Director,Customer Support,8.0,2,185000.0,144111.0,-40889.0,0.221
+152986,Customer Support Coach - NORAM,Cloudbeds,Unspecified,Customer Support,1.0,2,66000.0,75498.0,9498.0,0.144
+152859,Senior Data Analyst,Tremendous,Senior,Data Science & Analytics,5.0,4,200000.0,166050.0,-33950.0,0.17
+145140,Staff Software Developer,Cision,Senior,Software Engineering,5.0,5,112091.5,158832.0,46740.0,0.417
+145141,Software Developer II,Cision,Unspecified,Software Engineering,4.0,4,75334.175,122014.0,46680.0,0.62
+148660,"Global Director, Mid-Market Onboarding",Cloudbeds,Lead/Director,Customer Support,7.0,2,185000.0,145788.0,-39212.0,0.212
+152549,Senior Site Reliability Engineer I,Braze,Senior,DevOps & Infrastructure,5.0,8,157247.475,194764.0,37517.0,0.239
+152539,"Senior Software Engineer, Frontend",Phantom,Senior,Software Engineering,5.0,2,200000.0,173778.0,-26222.0,0.131
+152494,Anaplan Support Analyst,Monzo,Senior,Customer Support,16.5,1,58737.5,157319.0,98582.0,1.678
+152419,"Software Engineer, AI/ML Infrastructure",Thumbtack,Senior,DevOps & Infrastructure,2.0,4,103222.0,186477.0,83255.0,0.807
+152402,Staff Quality Engineer,StackAdapt,Senior,Software Engineering,7.0,6,161500.0,157469.0,-4031.0,0.025
+149965,Senior Product Marketing Manager,RevenueCat,Senior,Sales & Marketing,5.0,1,214000.0,155128.0,-58872.0,0.275
+152343,"Senior Software Engineer, Backend",Flex,Senior,Software Engineering,5.0,4,77500.0,209627.0,132127.0,1.705
+152299,Staff Software Engineer,CodePath,Lead/Director,Software Engineering,10.0,4,180000.0,204599.0,24599.0,0.137
+152275,Engineering Project Manager,CodePath,Lead/Director,Project & Program Management,4.0,1,159000.0,133736.0,-25264.0,0.159
+152159,"Manager, Global Talent Acquisition",Cloudbeds,Lead/Director,Other,8.0,2,187500.0,157209.0,-30291.0,0.162
+152155,Staff Cyber Threat Intelligence Analyst,TRM Labs,Senior,Cybersecurity,8.0,1,175000.0,227660.0,52660.0,0.301
+149855,Senior Software Engineer (AI CICD),Chainguard,Senior,Software Engineering,5.0,5,170500.0,168575.0,-1925.0,0.011
+152090,Ads AI Analytics Lead II,Instacart,Senior,Data Science & Analytics,7.0,7,105120.0,143180.0,38060.0,0.362
+144856,Senior Data Scientist,Customer.io,Senior,Data Science & Analytics,5.0,5,145000.0,206151.0,61151.0,0.422
+151986,Software Developer,D2L,Unspecified,Software Engineering,20.0,2,63875.0,129015.0,65140.0,1.02
+151984,Senior Software Developer 2,D2L,Senior,Software Engineering,20.0,3,96725.0,162020.0,65295.0,0.675
+151982,Data Scientist - Quora,Quora,Unspecified,Data Science & Analytics,2.0,3,147558.5,131660.0,-15898.0,0.108
+151981,Senior Software Developer,D2L,Senior,Software Engineering,20.0,3,80300.0,162020.0,81720.0,1.018
+151978,Product Marketing Manager,D2L,Senior,Sales & Marketing,4.0,1,58400.0,126953.0,68553.0,1.174
+151970,Senior Infrastructure Security Software Engineer,Quora,Senior,Cybersecurity,5.0,4,210959.5,242640.0,31680.0,0.15
+147700,Principal Software Architect,Testlio,Senior,Software Engineering,7.0,2,500000.0,199775.0,-300225.0,0.6
+143120,"Senior Data Scientist, RC Capital",RevenueCat,Senior,Data Science & Analytics,5.0,2,208000.0,146986.0,-61014.0,0.293
+142468,"Senior Software Engineer, Product Engineering, EU",Ashby,Senior,Software Engineering,4.0,4,124740.00000000001,139280.0,14540.0,0.117
+142467,"Staff Software Engineer, Product Engineering, EU",Ashby,Senior,Software Engineering,4.0,4,198180.0,139280.0,-58900.0,0.297
+154026,Telemedicine Physician Consultant,Carrot,Unspecified,Other,5.0,1,291200.0,109426.0,-181774.0,0.624
+154030,"Telemedicine Registered Nurse (RN), Consultant",Carrot,Unspecified,Other,3.0,1,93600.0,85264.0,-8336.0,0.089
+153106,"Senior Financial Analyst, FP&A (Contractor)",Liftoff,Lead/Director,Finance & Accounting,5.0,2,135200.0,130080.0,-5120.0,0.038
+152979,Blockchain Security Expert Intern - AI Track,CertiK,Entry,Cybersecurity,3.0,6,84000.0,190221.0,106221.0,1.265
+144385,RAGBRAI Ride Operations,Gannett,Unspecified,Product & Operations,20.0,0,47500.0,99664.0,52164.0,1.098
+151780,"Director, AI Enablement & Security",Bloomreach,Lead/Director,Cybersecurity,10.0,1,225000.0,243993.0,18993.0,0.084
+151778,"Security Engineer, Infrastructure Security",OpenAI,Unspecified,Cybersecurity,4.0,4,307500.0,193282.0,-114218.0,0.371
+151779,Staff Backend Engineer,TeamSnap,Senior,Software Engineering,5.0,6,200000.0,158316.0,-41684.0,0.208
+151776,Senior Software Engineer (Backend),TeamSnap,Senior,Software Engineering,5.0,5,150000.0,135579.0,-14421.0,0.096
+151771,Senior Product Designer,TeamSnap,Senior,Other,4.0,0,145000.0,88236.0,-56764.0,0.391
+151770,ChatGPT Performance Engineer,OpenAI,Senior,Software Engineering,7.0,2,365000.0,196691.0,-168309.0,0.461
+151766,Senior Marketing Manager,TeamSnap,Lead/Director,Sales & Marketing,7.0,1,115000.0,177539.0,62539.0,0.544
+151752,"Technical Threat Investigator, Threat Intel Engineering",OpenAI,Lead/Director,Cybersecurity,7.0,1,307500.0,228410.0,-79090.0,0.257
+151688,"Director, Performance Creative Strategy",Wpromote,Lead/Director,Sales & Marketing,7.0,1,125000.0,177539.0,52539.0,0.42
+151686,"Director, Paid Social",Wpromote,Lead/Director,Sales & Marketing,7.0,1,127500.0,177539.0,50039.0,0.392
+151775,"Security Engineer, Agent Security",OpenAI,Senior,Cybersecurity,5.0,5,309700.0,269222.0,-40478.0,0.131
+151687,Sr Technical Marketing Manager - Alliances & Competitive Strategy,Obsidian Security,Lead/Director,Sales & Marketing,8.0,2,203500.0,175767.0,-27733.0,0.136
+151767,Enterprise Account Executive,Medely,Lead/Director,Sales & Marketing,5.0,0,119000.0,126704.0,7704.0,0.065
+151765,"Security Engineer, Detection and Response",OpenAI,Unspecified,Cybersecurity,4.0,5,339000.0,215994.0,-123006.0,0.363
+151761,Senior Product Manager,Medely,Lead/Director,Product & Operations,5.0,1,157500.0,188108.0,30608.0,0.194
+151717,"Senior Software Engineer, Platform",Branch,Senior,Software Engineering,5.0,6,165000.0,127627.0,-37373.0,0.227
+151696,Senior Data Product Manager,FastSpring,Lead/Director,Product & Operations,5.0,4,169000.0,189423.0,20423.0,0.121
+151723,Developer Advocate - Service Management,Datadog,Unspecified,DevOps & Infrastructure,5.0,3,180000.0,151872.0,-28128.0,0.156
+151710,Staff Product Manager,Future PLC,Senior,Product & Operations,7.0,2,202500.0,174457.0,-28043.0,0.138
+151709,Sr. Security Engineer,FastSpring,Lead/Director,Cybersecurity,7.0,3,171000.0,229883.0,58883.0,0.344
+151706,Staff Backend Engineer,Future PLC,Senior,Software Engineering,8.0,4,215000.0,185232.0,-29768.0,0.138
+151702,Senior Product Designer,Future PLC,Senior,Other,8.0,1,177500.0,125527.0,-51973.0,0.293
+151697,Lead Android Engineer,Future PLC,Senior,Software Engineering,8.0,2,210000.0,173847.0,-36153.0,0.172
+151692,Applied AI Engineer,Future PLC,Unspecified,Software Engineering,4.0,3,232500.0,198445.0,-34055.0,0.146
+151719,Corporate Marketing Manager,Mural,Lead/Director,Sales & Marketing,2.0,0,121475.5,98768.0,-22708.0,0.187
+151581,"Instructor, AI/Machine Learning, Simplilearn (Part time)",Fullstack Academy,Senior,Other,8.0,4,105000.0,167824.0,62824.0,0.598
+151677,Content Marketing Manager,Wpromote,Lead/Director,Sales & Marketing,3.0,1,75000.0,139354.0,64354.0,0.858
+151672,"Associate Director, Paid Social",Wpromote,Lead/Director,Sales & Marketing,6.0,2,107500.0,161116.0,53616.0,0.499
+144376,Machine Learning Engineer,ManTech,Unspecified,Software Engineering,4.0,9,171650.0,200415.0,28765.0,0.168
+151682,Enterprise Sales Director,Sierra,Lead/Director,Sales & Marketing,7.0,1,272500.0,177539.0,-94961.0,0.348
+151679,Enterprise Sales Leader,Sierra,Unspecified,Sales & Marketing,18.0,1,460000.0,131843.0,-328157.0,0.713
+151683,"Director, Client Strategy (Media Director)",Wpromote,Lead/Director,Sales & Marketing,7.0,0,130000.0,148697.0,18697.0,0.144
+151665,Enterprise Sales Director - Majors,Sierra,Lead/Director,Sales & Marketing,9.0,1,322500.0,174176.0,-148324.0,0.46
+151667,Head of Customer Support,Obsidian Security,Senior,Customer Support,5.0,2,182000.0,117577.0,-64423.0,0.354
+151662,Claims Specialist,Resilience,Unspecified,Finance & Accounting,4.0,0,115000.0,74550.0,-40450.0,0.352
+151674,"Associate Manager, Paid Social",Wpromote,Senior,Sales & Marketing,2.0,2,71500.0,75681.0,4181.0,0.058
+151669,"Associate Director, Direct I/O",Wpromote,Lead/Director,Sales & Marketing,5.0,0,102500.0,126704.0,24204.0,0.236
+151685,"Enterprise Sales Director, Financial Services",Sierra,Lead/Director,Sales & Marketing,7.0,1,270000.0,177539.0,-92461.0,0.342
+153460,Commercial Account Manager,Salesloft,Lead/Director,Sales & Marketing,2.5,1,57500.0,111744.0,54244.0,0.943
+149689,"Senior Manager, Paid Social B2B",Wpromote,Senior,Sales & Marketing,4.0,0,92000.0,98078.0,6078.0,0.066
+149688,Head of Communications,Deepgram,Lead/Director,Sales & Marketing,0.0,1,181500.0,112209.0,-69291.0,0.382
+154086,Senior Brand Designer,Phantom,Lead/Director,Other,6.0,1,202500.0,130494.0,-72006.0,0.356
+154080,Head of Brand Creative,Phantom,Lead/Director,Other,10.0,1,295000.0,166173.0,-128827.0,0.437
+154065,"Principal Software Engineer, AI",Salesloft,Senior,Software Engineering,5.0,6,175000.0,233480.0,58480.0,0.334
+154072,Senior Commercial Counsel,Salesloft,Senior,Other,7.0,1,210000.0,125638.0,-84362.0,0.402
+154070,Senior Commercial Account Manager,Salesloft,Lead/Director,Sales & Marketing,4.0,1,68000.0,159711.0,91711.0,1.349
+154071,Revenue Systems Analyst,UpGuard,Senior,Product & Operations,3.0,1,120000.0,103348.0,-16652.0,0.139
+154073,Senior Customer Success Manager,Salesloft,Lead/Director,Customer Support,7.0,1,118000.0,153687.0,35687.0,0.302
+151670,Head of GTM Enablement,Obsidian Security,Senior,Product & Operations,5.0,2,205000.0,167129.0,-37871.0,0.185
+151615,Enterprise Account Executive - Central,Obsidian Security,Lead/Director,Sales & Marketing,5.0,2,169500.0,179429.0,9929.0,0.059
+151605,"Principal, Value Realization",League,Lead/Director,Customer Support,6.0,2,185000.0,132090.0,-52910.0,0.286
+151644,Staff Design Engineer - Americas,Ashby,Lead/Director,Other,2.0,4,272500.0,139760.0,-132740.0,0.487
+151614,Strategic Account Executive,Fieldguide,Lead/Director,Sales & Marketing,7.0,1,155000.0,187800.0,32800.0,0.212
+151631,"Senior Director of Fresh Grocery (Produce, Meat & Seafood)",Gopuff,Lead/Director,Product & Operations,8.0,0,210000.0,128015.0,-81985.0,0.39
+151625,Regional Manager I,Gopuff,Senior,Product & Operations,10.0,0,108825.0,109573.0,748.0,0.007
+151618,"Director, Data Science",Gopuff,Lead/Director,Data Science & Analytics,8.0,1,245000.0,197870.0,-47130.0,0.192
+151634,Enterprise Account Executive - Southeast (Atlanta),Obsidian Security,Lead/Director,Sales & Marketing,5.0,2,167000.0,179429.0,12429.0,0.074
+151632,Enterprise Sales Director - Southeast,Five9,Lead/Director,Sales & Marketing,7.0,0,185750.0,126713.0,-59037.0,0.318
+151626,Enterprise Sales Director - Northeast,Five9,Lead/Director,Sales & Marketing,10.0,0,185750.0,179962.0,-5788.0,0.031
+151596,Global Account Executive,Fieldguide,Lead/Director,Sales & Marketing,10.0,0,185000.0,179962.0,-5038.0,0.027
+151593,Growth Marketing Director,Nabla,Lead/Director,Sales & Marketing,8.0,3,160000.0,165185.0,5185.0,0.032
+151592,Senior Infrastructure Engineer,Fieldguide,Senior,DevOps & Infrastructure,5.0,4,198000.0,146653.0,-51347.0,0.259
+151574,Software Engineer — AI-Native CAD Integrations,Quilter,Senior,Software Engineering,5.0,5,155000.0,203397.0,48397.0,0.312
+151571,Staff ML Systems Engineer,Quilter,Senior,Software Engineering,7.0,1,190000.0,207135.0,17135.0,0.09
+151567,"Account Executive, Small Group",Elation Health,Lead/Director,Sales & Marketing,2.0,0,82500.0,107907.0,25407.0,0.308
+151562,"Alliance Manager, Translational Medicine",Natera,Senior,Sales & Marketing,5.0,0,120500.0,91525.0,-28975.0,0.24
+151566,Senior ML Engineer,Quilter,Senior,Software Engineering,5.0,3,190000.0,218431.0,28431.0,0.15
+151569,"Account Executive, Enterprise",Fivetran,Lead/Director,Sales & Marketing,8.0,1,157577.5,186746.0,29168.0,0.185
+151601,Software Engineer (All Levels),Fieldguide,Senior,Software Engineering,5.0,5,205000.0,172416.0,-32584.0,0.159
+154057,Technical Accountant,Kalshi,Senior,Finance & Accounting,5.0,1,140000.0,129518.0,-10482.0,0.075
+154059,Enterprise Solutions Architect,TripActions,Unspecified,Sales & Marketing,5.0,1,194400.0,158142.0,-36258.0,0.187
+154052,"AI Operations Lead, Toast IQ",Toast,Lead/Director,Product & Operations,5.0,1,216000.0,180345.0,-35655.0,0.165
+154058,Sr Global Events Marketing Specialist,Instructure,Lead/Director,Sales & Marketing,1.0,0,82500.0,107907.0,25407.0,0.308
+154050,"Manager, HR Shared Services",Instructure,Unspecified,Other,4.0,0,100000.0,93010.0,-6990.0,0.07
+154047,CPH - Provider Engagement,Clover Health,Lead/Director,Customer Support,10.0,1,158100.0,185504.0,27404.0,0.173
+154049,Account Manager (Property),SOCi,Lead/Director,Sales & Marketing,5.0,1,80000.0,181014.0,101014.0,1.263
+154048,"Senior Product Manager, Growth",hims & hers,Senior,Product & Operations,4.0,1,195000.0,143933.0,-51067.0,0.262
+154046,Account Manager,SOCi,Lead/Director,Sales & Marketing,5.0,1,87500.0,181014.0,93514.0,1.069
+154042,"Director, Product Communications (Hers)",hims & hers,Lead/Director,Sales & Marketing,12.0,1,212500.0,271966.0,59466.0,0.28
+154040,Chief Actuary,Clover Health,Lead/Director,Finance & Accounting,7.0,1,315000.0,157285.0,-157715.0,0.501
+154043,Contract Technical Recruiter,Clover Health,Senior,Other,5.0,1,88450.0,127899.0,39449.0,0.446
+154045,Lead Product Manager,hims & hers,Senior,Product & Operations,6.0,1,217500.0,170937.0,-46563.0,0.214
+154035,"Director, Influencer Strategy",Acceleration Partners,Lead/Director,Sales & Marketing,1.0,0,120000.0,107907.0,-12093.0,0.101
+154033,"Director, Channel Partnerships",Acceleration Partners,Lead/Director,Sales & Marketing,7.0,1,120000.0,187800.0,67800.0,0.565
+154003,CPS Solution Architect,Collibra,Lead/Director,Data Science & Analytics,7.5,6,108000.0,182920.0,74920.0,0.694
+153998,Underwriter,Resilience,Lead/Director,Finance & Accounting,4.0,0,82500.0,122283.0,39783.0,0.482
+154002,Technical Product Analyst,CentralReach,Unspecified,Data Science & Analytics,2.0,5,95000.0,88456.0,-6544.0,0.069
+154000,CPS Engagement Manager,Collibra,Lead/Director,Project & Program Management,5.0,5,108000.0,164673.0,56673.0,0.525
+154001,"Sr. Manager, Data Engineering",Carrot,Lead/Director,Data Science & Analytics,10.0,5,190000.0,197031.0,7031.0,0.037
+154004,"Sr. Member Engagement Manager, Lifecycle",Carrot,Senior,Sales & Marketing,8.5,2,132500.0,187401.0,54901.0,0.414
+153985,Senior Product Manager,Best Egg,Senior,Product & Operations,6.0,0,160000.0,95779.0,-64221.0,0.401
+151480,Product Marketing Manager,Dataiku,Unspecified,Sales & Marketing,6.0,4,125000.0,122224.0,-2776.0,0.022
+149596,Senior Applied Scientist,Samsara,Senior,Data Science & Analytics,5.0,8,228085.0,177610.0,-50475.0,0.221
+149595,Senior Workday Platform Engineer,Natera,Senior,Software Engineering,8.0,1,144925.0,205511.0,60586.0,0.418
+149591,Manager of IT Security,"Lakeshore Learning Materials, LLC",Mid,Cybersecurity,5.0,0,154000.0,112159.0,-41841.0,0.272
+151526,Head of Marketing,Anagram,Senior,Sales & Marketing,9.5,1,187500.0,172981.0,-14519.0,0.077
+151473,Anaplan Systems Architect,Dataiku,Senior,Finance & Accounting,10.0,2,171000.0,173886.0,2886.0,0.017
+151470,Blockchain Security Engineer - (Solidity / Rust / Golang),CertiK,Entry,Cybersecurity,1.0,1,141000.0,139725.0,-1275.0,0.009
+153978,Data Analyst - SQL / Databricks,Tenable,Unspecified,Data Science & Analytics,3.0,6,84500.0,77033.0,-7467.0,0.088
+153955,Director Of RevOps (SMSO046),Defense Unicorns,Lead/Director,Product & Operations,7.0,5,240000.0,173597.0,-66403.0,0.277
+153957,VP of Product & Design,Serve Robotics,Lead/Director,Product & Operations,12.0,2,270000.0,261688.0,-8312.0,0.031
+153941,"Senior Financial Analyst, GTM",Luxury Presence,Senior,Finance & Accounting,4.0,4,125000.0,99636.0,-25364.0,0.203
+153937,"Senior Data Analyst, GTM Analytics - US",Luxury Presence,Senior,Data Science & Analytics,5.0,4,160000.0,166180.0,6180.0,0.039
+150923,"Data Analyst, Clinical Data Effectiveness",Clover Health,Unspecified,Data Science & Analytics,2.0,3,88500.0,108022.0,19522.0,0.221
+152297,"Senior Product Manager, Learner Platform Experience",CodePath,Lead/Director,Product & Operations,7.0,2,216000.0,161951.0,-54049.0,0.25
+151436,Pre-Sales Solutions Engineer (EST or PST),Deepgram,Senior,Sales & Marketing,0.0,9,221500.0,114566.0,-106934.0,0.483
+151406,Customer Success Engineer (Scaled),Deepgram,Unspecified,Customer Support,0.0,2,161750.0,102134.0,-59616.0,0.369
+151351,Sales Associate - SMB,YipitData,Mid,Sales & Marketing,2.0,1,70000.0,68914.0,-1086.0,0.016
+153922,Engineering Manager,NetBox Labs,Lead/Director,Software Engineering,2.0,6,202500.0,129051.0,-73449.0,0.363
+153887,"Senior Security Engineer, Product Security",Goodleap,Lead/Director,Cybersecurity,7.0,4,157800.0,227433.0,69633.0,0.441
+153886,Senior Data Engineer,Socure,Senior,Data Science & Analytics,5.0,4,177500.0,172192.0,-5308.0,0.03
+153882,"Senior Manager, Solution Engineering - DocV",Socure,Senior,Software Engineering,8.0,0,235000.0,106696.0,-128304.0,0.546
+153877,Senior Paid Media Associate,SeatGeek,Senior,Sales & Marketing,4.0,0,98000.0,95771.0,-2229.0,0.023
+153869,"Director of Engineering, Enterprise Product",SeatGeek,Lead/Director,Software Engineering,7.0,1,288500.0,222410.0,-66090.0,0.229
+153872,Client Finance Analyst I,Precision Medicine Group,Unspecified,Finance & Accounting,1.0,1,56000.0,62099.0,6099.0,0.109
+153868,"Manager, Delivery Solutions Architects - Public Sector",Databricks,Senior,Product & Operations,7.0,3,296400.0,154712.0,-141688.0,0.478
+153863,"Manager, Delivery Solutions Architects - Emerging Enterprise",Databricks,Lead/Director,Product & Operations,7.0,7,234037.5,169730.0,-64308.0,0.275
+153851,Procurement Architect,Ramp,Lead/Director,Sales & Marketing,8.0,1,240350.0,151274.0,-89076.0,0.371
+151415,Full Stack Engineer,Roboflow,Senior,Software Engineering,5.0,8,180000.0,196934.0,16934.0,0.094
+151374,Chief Architect,Legion,Lead/Director,Software Engineering,15.0,6,342500.0,235864.0,-106636.0,0.311
+151366,Senior/Staff Software Engineer (C++),Quilter,Senior,Software Engineering,10.0,2,190000.0,235007.0,45007.0,0.237
+151369,Staff Product Engineer,Help Scout,Senior,Software Engineering,5.0,8,200500.0,153079.0,-47421.0,0.237
+151390,Cloud Data Architect,Oddball,Senior,Data Science & Analytics,5.0,4,165000.0,124575.0,-40425.0,0.245
+151357,Senior Developer Success Engineer - West,Temporal Technologies,Senior,Customer Support,6.0,6,160000.0,121394.0,-38606.0,0.241
+153845,"Principal Software Engineer, Infrastructure Security",OpenAI,Lead/Director,Cybersecurity,7.0,5,455500.0,240847.0,-214653.0,0.471
+153839,"Director, Earned and Owned Strategy",Wpromote,Lead/Director,Sales & Marketing,5.0,1,124000.0,181014.0,57014.0,0.46
+153846,"Director, Paid Search",Wpromote,Lead/Director,Sales & Marketing,7.0,2,125000.0,158267.0,33267.0,0.266
+153842,"Director, AI Solutions",Wpromote,Lead/Director,Software Engineering,7.0,2,150000.0,185072.0,35072.0,0.234
+153830,"Director, Partner Programs, Enablement, and Operations",Ping Identity,Lead/Director,Product & Operations,11.0,0,161000.0,170720.0,9720.0,0.06
+153819,Senior Program Manager - Data Security & Information Governance,Qualtrics,Senior,Project & Program Management,5.0,4,156500.0,132393.0,-24107.0,0.154
+153820,Community Strategy Enablement Manager,Unite Us,Unspecified,Customer Support,3.0,0,77500.0,75575.0,-1925.0,0.025
+153813,Enterprise Account Executive - RCT,Databricks,Lead/Director,Sales & Marketing,7.0,3,370025.0,160994.0,-209031.0,0.565
+153809,Enterprise Account Executive - QSR,Databricks,Lead/Director,Sales & Marketing,7.0,3,346550.0,160994.0,-185556.0,0.535
+153806,"Account Executive, Enterprise - Texas",Motive,Lead/Director,Sales & Marketing,5.0,1,265000.0,181014.0,-83986.0,0.317
+153805,"Enterprise Account Executive, Dept. of Transportation",Databricks,Lead/Director,Sales & Marketing,5.0,3,323000.0,159840.0,-163160.0,0.505
+153802,Digital Media Planner (Direct IO - B2B),Wpromote,Unspecified,Sales & Marketing,4.0,0,75000.0,90048.0,15048.0,0.201
+151087,Customer & Field Marketing Manager - US Remote,PerfectServe,Mid,Sales & Marketing,9.0,1,80000.0,197364.0,117364.0,1.467
+151329,"Engineering Manager, Product Engineering",Boulevard,Senior,Software Engineering,5.0,1,185000.0,141445.0,-43555.0,0.235
+151331,Machine Learning Engineer,Liftoff,Unspecified,Data Science & Analytics,4.0,3,245000.0,155356.0,-89644.0,0.366
+151337,Technical Lead Manager,Homebound,Senior,Software Engineering,10.0,5,175000.0,197388.0,22388.0,0.128
+151326,"Director of Engineering, Data",Boulevard,Lead/Director,Software Engineering,10.0,2,245000.0,251480.0,6480.0,0.026
+151309,Service Delivery Manager,Astronomer,Senior,Project & Program Management,5.0,1,135000.0,134886.0,-114.0,0.001
+153779,DevOps Engineer,Oddball,Unspecified,DevOps & Infrastructure,4.0,5,132500.0,151103.0,18603.0,0.14
+150339,"Senior Analyst, Customer Success Operations",AlphaSense,Senior,Product & Operations,4.0,3,104500.0,137751.0,33251.0,0.318
+151283,"Director, Paid Marketing (Subscriptions)",DuckDuckGo,Lead/Director,Sales & Marketing,10.0,1,243800.0,201240.0,-42560.0,0.175
+144040,"Staff Software Engineer, App Platform",Fieldguide,Senior,Software Engineering,10.0,3,237500.0,199279.0,-38221.0,0.161
+151191,Enterprise Customer Success Manager - Central,Sigma Computing,Senior,Customer Support,7.0,4,148500.0,130559.0,-17941.0,0.121
+150341,"Manager, Customer Success Operations",AlphaSense,Senior,Product & Operations,6.5,3,147000.0,159142.0,12142.0,0.083
+150340,"Senior Manager, Customer Success Operations",AlphaSense,Senior,Product & Operations,8.0,3,186000.0,174497.0,-11503.0,0.062
+153753,"Associate Director/Sr. Manager, Health Economics & Outcomes Research-Oncology",Natera,Lead/Director,Other,10.0,6,187500.0,150350.0,-37150.0,0.198
+153750,Senior Security Technical Account Manager,Fastly,Lead/Director,Cybersecurity,8.0,7,147456.0,247872.0,100416.0,0.681
+153751,Associate Director of Bioinformatics (Women's Health and Organ Health),Natera,Lead/Director,Data Science & Analytics,7.0,7,184300.0,179239.0,-5061.0,0.027
+153754,"Senior Manager, National Accounts",ANGI,Senior,Project & Program Management,6.0,2,137500.0,115219.0,-22281.0,0.162
+153721,"Account Executive, Enterprise - Central",Motive,Lead/Director,Sales & Marketing,5.0,1,265000.0,153532.0,-111468.0,0.421
+153727,"Account Executive, Public Sector",Motive,Lead/Director,Sales & Marketing,7.0,1,280000.0,179457.0,-100543.0,0.359
+153718,Security Engineering Manager,SkySlope,Lead/Director,Cybersecurity,1.0,4,190000.0,214746.0,24746.0,0.13
+153709,"Security Engineer, Insider Threat Detection & Response",OpenAI,Senior,Cybersecurity,5.0,3,325500.0,208624.0,-116876.0,0.359
+153699,"Associate Director, Influencer & Creator Marketing",Wpromote,Lead/Director,Sales & Marketing,6.0,2,96000.0,157360.0,61360.0,0.639
+153702,B2B Account Director (ABM Focus),Wpromote,Lead/Director,Sales & Marketing,6.0,0,115000.0,136157.0,21157.0,0.184
+153705,Content Engineer,Wpromote,Lead/Director,Other,2.5,1,75000.0,120539.0,45539.0,0.607
+153701,Full-Stack Growth Engineer,Future PLC,Senior,Software Engineering,6.0,1,215000.0,176228.0,-38772.0,0.18
+151259,Partner Marketing Director,"Acquia, Inc.",Lead/Director,Sales & Marketing,7.0,1,187000.0,179457.0,-7543.0,0.04
+151262,Staff Social Strategy & Operations Manager,ClickUp,Senior,Sales & Marketing,7.0,2,139500.0,192423.0,52923.0,0.379
+151266,Senior Analytics Engineer - US,Luxury Presence,Lead/Director,Data Science & Analytics,5.0,5,170000.0,163703.0,-6297.0,0.037
+151268,Senior Product Manager,ClickUp,Senior,Product & Operations,5.0,3,185000.0,197887.0,12887.0,0.07
+151239,"Staff Backend Engineer, Hierarchy",ClickUp,Senior,Software Engineering,8.0,10,225000.0,184524.0,-40476.0,0.18
+151224,"Software Engineer, Security Observability",OpenAI,Unspecified,Cybersecurity,4.0,3,309000.0,205537.0,-103463.0,0.335
+151229,Principal Engineer TL/M - Software Development (PaaS),Aviatrix,Senior,Software Engineering,10.0,5,270991.0,190415.0,-80576.0,0.297
+145923,"Account Executive, Enterprise - West",Motive,Lead/Director,Sales & Marketing,4.0,1,265000.0,129848.0,-135152.0,0.51
+151249,Engineering Manager (Frontend),ClickUp,Senior,Software Engineering,7.0,4,225000.0,208417.0,-16583.0,0.074
+147000,Experienced Information Systems Architect,Gainwell Technologies,Senior,Software Engineering,5.0,1,115450.0,133906.0,18456.0,0.16
+153637,Growth Marketing,Roboflow,Senior,Sales & Marketing,5.0,2,182500.0,175084.0,-7416.0,0.041
+153638,Data Engineer (FedD024),Defense Unicorns,Unspecified,Data Science & Analytics,5.0,7,175000.0,188615.0,13615.0,0.078
+153634,Named Technical Support Engineer,Roboflow,Senior,Customer Support,7.0,3,175000.0,136510.0,-38490.0,0.22
+153631,Technical Recruiter,Roboflow,Senior,Other,5.0,2,167500.0,139457.0,-28043.0,0.167
+153628,"Associate Director, B2B Strategy",Wpromote,Lead/Director,Sales & Marketing,8.0,0,122500.0,158918.0,36418.0,0.297
+153620,Ad Operations Manager B2B,Wpromote,Senior,Sales & Marketing,3.5,2,75000.0,82133.0,7133.0,0.095
+151050,"Senior Manager, Sales Engineering - Majors, New England",Zscaler,Senior,Sales & Marketing,5.0,1,213562.5,141626.0,-71936.0,0.337
+151048,"Senior Manager, Sales Engineering - Majors, NY/NJ",Zscaler,Senior,Sales & Marketing,5.0,1,213562.5,141626.0,-71936.0,0.337
+146925,Engineering Manager,QuinStreet,Mid,Product & Operations,20.0,1,142500.0,114200.0,-28300.0,0.199
+146827,Vessel Closure Regional Sales Director - Mid-Atlantic (Pittsburgh/DC),Abbott,Lead/Director,Sales & Marketing,7.0,0,170000.0,152592.0,-17408.0,0.102
+153597,Sr. Data Engineer,Carrot,Lead/Director,Data Science & Analytics,7.0,6,155000.0,168733.0,13733.0,0.089
+153584,"Business Development Manager, Northeastern",CompScience,Unspecified,Sales & Marketing,5.0,2,162500.0,175127.0,12627.0,0.078
+153582,Director of Product Marketing,Help Scout,Lead/Director,Sales & Marketing,7.0,1,208000.0,179457.0,-28543.0,0.137
+148200,Principal DevOps Engineer,NBCUniversal,Lead/Director,DevOps & Infrastructure,10.0,5,205000.0,185045.0,-19955.0,0.097
+151025,Marketing Engineer,Figma,Senior,Sales & Marketing,5.0,4,211500.0,145166.0,-66334.0,0.314
+149375,"Senior Principal, Sales Compensation Design & Strategy","Cloudflare, Inc.",Senior,Sales & Marketing,15.0,1,258500.0,198515.0,-59985.0,0.232
+153504,Forward Deployed Engineer,Kong Inc.,Lead/Director,Software Engineering,8.0,8,233155.0,224949.0,-8206.0,0.035
+146434,"AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)",Gartner,Senior,Data Science & Analytics,12.0,1,187250.0,189487.0,2237.0,0.012
+150919,AR & Collections Manager,AssetWatch,Lead/Director,Finance & Accounting,7.0,0,103000.0,149035.0,46035.0,0.447
+150917,Actuarial Analyst,Clover Health,Lead/Director,Finance & Accounting,3.0,6,100000.0,121179.0,21179.0,0.212
+153458,"Data Center Engineer (in Atlanta, GA)",Five9,Unspecified,DevOps & Infrastructure,4.0,0,96300.0,86681.0,-9619.0,0.1
+153461,"Senior Manager, AI Engineering",HackerOne,Lead/Director,Software Engineering,5.0,3,260000.0,190331.0,-69669.0,0.268
+153466,Senior DevOps Engineer - Storage Platforms,Five9,Senior,DevOps & Infrastructure,6.0,3,171450.0,176273.0,4823.0,0.028
+153439,Forward Deployed Engineer,Appen,Unspecified,Software Engineering,20.0,2,175000.0,107177.0,-67823.0,0.388
+153437,"Infrastructure Developer, Platform Engineering",MaintainX,Unspecified,DevOps & Infrastructure,5.0,7,147725.0,169626.0,21901.0,0.148
+153427,Senior Client Partner,LivePerson,Lead/Director,Sales & Marketing,8.0,1,135000.0,180458.0,45458.0,0.337
+153418,"Senior Manager, Enterprise Customer Success",Dutchie,Lead/Director,Customer Support,8.0,0,130500.0,138395.0,7895.0,0.06
+153413,Senior Financial Analyst,Dutchie,Lead/Director,Finance & Accounting,5.0,2,145000.0,133463.0,-11537.0,0.08
+153411,Senior Performance Marketing Manager,Fieldguide,Senior,Sales & Marketing,5.0,2,160000.0,134103.0,-25897.0,0.162
+153397,"Engineering Manager, AI Transformation",Goodleap,Senior,Software Engineering,7.0,3,202400.0,247208.0,44808.0,0.221
+153391,Analytics Platforms Architect,Tala,Senior,Data Science & Analytics,5.0,1,180000.0,156900.0,-23100.0,0.128
+153373,Financial Analyst (Entry-Level),CertiK,Senior,Finance & Accounting,5.0,3,70000.0,159153.0,89153.0,1.274
+153362,Applied AI/ML Engineer,Oddball,Unspecified,Data Science & Analytics,4.0,8,175000.0,158924.0,-16076.0,0.092
+145935,Senior Software Engineer - Data Platform,Samsara,Senior,Software Engineering,4.0,8,175450.0,185888.0,10438.0,0.059
+150836,Data Engineer,Gopuff,Unspecified,Data Science & Analytics,4.0,5,133000.0,169744.0,36744.0,0.276
+153336,"Principal, User Research",Mural,Lead/Director,Other,10.0,2,208369.0,203203.0,-5166.0,0.025
+153335,Marketplace Operations Manager II,Wheel,Lead/Director,Product & Operations,7.0,3,138537.5,160434.0,21896.0,0.158
+153338,"Staff Software Engineer, AI-Native Systems",Wheel,Lead/Director,Software Engineering,8.0,4,225112.5,186267.0,-38846.0,0.173
+153337,"Sales Engineer, Enterprise",Socket,Unspecified,Sales & Marketing,4.0,2,220000.0,160844.0,-59156.0,0.269
+153342,"Sales Engineer, Commercial",Socket,Senior,Sales & Marketing,5.0,3,192500.0,146575.0,-45925.0,0.239
+153341,"Forward Deployed Engineer, Python",Socket,Senior,Cybersecurity,5.0,1,162500.0,209913.0,47413.0,0.292
+150748,IT Administrator,Kalshi,Unspecified,DevOps & Infrastructure,3.0,3,85000.0,143578.0,58578.0,0.689
+150674,ANALYST DIGITAL MARKETING IV (Remote) IV,TE Connectivity,Senior,Sales & Marketing,8.5,1,145350.0,163553.0,18203.0,0.125
+149262,Head of AI,AssetWatch,Lead/Director,Software Engineering,7.0,3,263000.0,239008.0,-23992.0,0.091
+153207,Delivery Solutions Architect - Startups & Emerging Enterprise,Databricks,Lead/Director,Project & Program Management,5.0,4,213750.0,123674.0,-90076.0,0.421
+153202,Delivery Solutions Architect - Oil & Gas,Databricks,Lead/Director,Project & Program Management,5.0,4,213750.0,123674.0,-90076.0,0.421
+153197,Delivery Solutions Architect - Digital Native Business,Databricks,Lead/Director,Project & Program Management,5.0,4,213750.0,123674.0,-90076.0,0.421
+153194,Sr. Product Engineer,Help Scout,Senior,Software Engineering,5.0,8,172000.0,160512.0,-11488.0,0.067
+153198,General Counsel,Legion,Lead/Director,Other,15.0,2,275000.0,251455.0,-23545.0,0.086
+153199,"Mid/Sr. Product Engineer, Intelligence",Help Scout,Senior,Software Engineering,5.0,8,153000.0,160512.0,7512.0,0.049
+153178,Brands Analyst,Dutchie,Unspecified,Data Science & Analytics,5.0,1,142500.0,132098.0,-10402.0,0.073
+153174,Head of Security Engineering,BetterHelp,Senior,Cybersecurity,5.0,1,275000.0,185474.0,-89526.0,0.326
+153151,Business Intelligence Analyst,Carrot,Unspecified,Data Science & Analytics,4.0,6,111500.0,105278.0,-6222.0,0.056
+145648,"Principal, Marketing Analytics",Remote,Senior,Data Science & Analytics,5.0,3,125350.0,178752.0,53402.0,0.426
+149108,"Senior Software Engineer, Unsecured Installments",Upstart,Senior,Software Engineering,6.0,6,192150.0,165952.0,-26198.0,0.136
+153108,Senior Gen AI Software Engineer,Liftoff,Senior,Software Engineering,8.0,4,240500.0,170823.0,-69677.0,0.29
+153111,"Senior Manager, Investor Relations",Liftoff,Lead/Director,Finance & Accounting,8.0,1,162500.0,173704.0,11204.0,0.069
+153109,Senior Software Engineer I,Rithum,Senior,Software Engineering,5.0,4,146000.0,129378.0,-16622.0,0.114
+153096,Product Analyst,Liftoff,Unspecified,Data Science & Analytics,5.0,6,148000.0,190731.0,42731.0,0.289
+153047,"Senior Software Engineer, Front End / Full Stack",Grove Collaborative,Senior,Software Engineering,7.0,4,197500.0,136852.0,-60648.0,0.307
+153038,"Senior Financial Analyst, Strategic Finance - FPA",hims & hers,Lead/Director,Finance & Accounting,5.0,3,130000.0,120513.0,-9487.0,0.073
+153029,Software Engineer III | AI/ML,ExtraHop,Senior,Software Engineering,4.0,13,154000.0,184803.0,30803.0,0.2
+153023,Senior Sales Engineer | Financial Services,ExtraHop,Lead/Director,Sales & Marketing,7.0,4,157500.0,184030.0,26530.0,0.168
+153021,Senior Data Scientist,ExtraHop,Senior,Data Science & Analytics,7.0,7,172500.0,204205.0,31705.0,0.184
+153019,Salesforce Developer III,ExtraHop,Senior,Software Engineering,3.0,3,139500.0,94868.0,-44632.0,0.32
+153013,Principal Software Engineer | Data Science,ExtraHop,Lead/Director,Software Engineering,8.0,8,186500.0,251732.0,65232.0,0.35
+152990,DevOps Engineer,Cloudbeds,Unspecified,DevOps & Infrastructure,3.0,9,105000.0,149844.0,44844.0,0.427
+152984,"Associate Research Scientist, Real World Evidence",Precision Medicine Group,Senior,Data Science & Analytics,1.0,2,80000.0,143531.0,63531.0,0.794
+149007,Procurement Analyst,Eightfold,Mid,Sales & Marketing,4.0,4,72500.0,147370.0,74870.0,1.033
+145744,Frontend Engineer React and AWS,Numentica,Mid,Software Engineering,5.0,6,168000.0,145948.0,-22052.0,0.131
+152949,"Senior Engineer (Software), Enterprise",NetBox Labs,Senior,DevOps & Infrastructure,5.0,4,187500.0,156831.0,-30669.0,0.164
+152938,"Software Engineer, Backend",Vercel,Unspecified,Software Engineering,4.0,7,245000.0,135302.0,-109698.0,0.448
+152933,Solution Lead,Summation,Senior,Project & Program Management,3.0,3,185000.0,90012.0,-94988.0,0.513
+152924,Staff AI Product Analyst,ANGI,Senior,Data Science & Analytics,20.0,3,195000.0,109407.0,-85593.0,0.439
+152910,"Staff Software Engineer, Experimentation Platform",Discord,Senior,Software Engineering,7.0,7,263500.0,204879.0,-58621.0,0.222
+152890,Trade Compliance Analyst,Echodyne,Unspecified,Other,3.0,0,110691.5,83855.0,-26836.0,0.242
+152855,Engineering Manager,Tremendous,Lead/Director,Software Engineering,8.0,4,275000.0,204956.0,-70044.0,0.255
+152823,"Director, Data Governance (REMOTE, WA)",Veeam Software,Lead/Director,Data Science & Analytics,7.0,3,357000.0,123421.0,-233579.0,0.654
+152815,"Backend Software Engineer, PDP Experience",Reddit,Unspecified,Software Engineering,3.0,2,196500.0,115172.0,-81328.0,0.414
+152814,Business Systems Engineer,ClickUp,Senior,Software Engineering,5.0,4,162500.0,145191.0,-17309.0,0.107
+152810,"Ads Conversion Modeling, Machine Learning Engineering Manager",Reddit,Senior,Software Engineering,5.0,4,276000.0,161933.0,-114067.0,0.413
+152802,"Manager, Strategy & Analytics",Beyond Finance,Senior,Data Science & Analytics,3.0,4,140733.0,82348.0,-58385.0,0.415
+152796,"Vice President, Banking & Financial Services Industry Leader",Quantum Metric,Lead/Director,Sales & Marketing,3.0,1,235000.0,90082.0,-144918.0,0.617
+152795,"Sr. Software Engineer, Ruby on Rails",CentralReach,Senior,Software Engineering,8.5,6,150000.0,169912.0,19912.0,0.133
+152793,Lead Data Platform Engineer,Beyond Finance,Senior,Data Science & Analytics,8.0,6,187500.0,183575.0,-3925.0,0.021
+152755,"Data Product Analyst, Corporate",YipitData,Senior,Data Science & Analytics,5.0,4,150000.0,164376.0,14376.0,0.096
+152753,Regional Sales Manager - Ohio,BigID,Lead/Director,Sales & Marketing,3.0,2,157500.0,95875.0,-61625.0,0.391
+152751,Data Lead - Central Data Team,YipitData,Senior,Data Science & Analytics,8.0,3,185000.0,186551.0,1551.0,0.008
+152750,Software Engineer II (Mobile Developer - Android/Kotlin) - Mobile App Growth,Klaviyo,Unspecified,Software Engineering,2.0,5,145000.0,136496.0,-8504.0,0.059
+152748,Regional Sales Manager - Minnesota,BigID,Lead/Director,Sales & Marketing,3.0,2,157500.0,95875.0,-61625.0,0.391
+152746,"Data Scientist, AI/ML",Gremlin,Unspecified,Data Science & Analytics,5.0,2,255000.0,163771.0,-91229.0,0.358
+152734,"Data Classification Associate, Corporate",YipitData,Senior,Data Science & Analytics,4.0,4,130000.0,152071.0,22071.0,0.17
+152732,"Senior Product Manager, Catalog",SeatGeek,Senior,Product & Operations,5.0,6,168000.0,200842.0,32842.0,0.195
+152731,Sr Technical Account Manager - East,Dataiku,Lead/Director,Customer Support,7.0,9,175000.0,217194.0,42194.0,0.241
+152727,Senior Machine Learning Engineer,SeatGeek,Senior,Data Science & Analytics,4.0,8,177000.0,175441.0,-1559.0,0.009
+152722,"Senior Data Analyst, Risk Analytics",SeatGeek,Senior,Data Science & Analytics,3.0,4,132500.0,103381.0,-29119.0,0.22
+152719,Associate Director of Product Development,YipitData,Lead/Director,Product & Operations,5.0,1,192500.0,193455.0,955.0,0.005
+152712,"Engineering Manager, SupportX",SeatGeek,Senior,Software Engineering,5.0,6,209500.0,184848.0,-24652.0,0.118
+152711,Head of Design,Dataiku,Lead/Director,Other,10.0,2,194000.0,217128.0,23128.0,0.119
+152710,"Director, Enterprise Sales Engineering - US Central",Datadog,Lead/Director,Sales & Marketing,5.0,5,210000.0,172358.0,-37642.0,0.179
+152699,AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector,Databricks,Unspecified,Software Engineering,4.0,9,216104.0,165166.0,-50938.0,0.236
+152690,Senior Incident Manager,Lambda,Lead/Director,DevOps & Infrastructure,8.0,2,145500.0,182622.0,37122.0,0.255
+152689,"Senior Manager, Data Strategy & Analytics",Happy Money,Lead/Director,Data Science & Analytics,7.0,7,152500.0,187236.0,34736.0,0.228
+152688,"VP, Engineering & Facilities",hims & hers,Lead/Director,Product & Operations,12.0,0,300000.0,169025.0,-130975.0,0.437
+152686,Account CTO,Lambda,Lead/Director,Sales & Marketing,15.0,3,316000.0,255497.0,-60503.0,0.191
+152683,"Senior Analyst, Care Operations",hims & hers,Lead/Director,Data Science & Analytics,6.0,3,120000.0,127966.0,7966.0,0.066
+152666,Salesforce Developer (US-Remote),Tenable,Senior,Software Engineering,5.0,5,119500.0,160339.0,40839.0,0.342
+152667,Financial Crime Analyst,Flex,Senior,Other,2.0,1,70000.0,66908.0,-3092.0,0.044
+152656,Director of Product Marketing - Cloud & OT Security,Tenable,Lead/Director,Sales & Marketing,12.0,0,219333.0,171254.0,-48079.0,0.219
+152650,"Automations Engineer, Post Sales Systems",ClickUp,Unspecified,Customer Support,5.0,5,162500.0,114432.0,-48068.0,0.296
+152648,"Senior AI Engineer, Voice Platform",ClickUp,Senior,Software Engineering,5.0,2,225000.0,170083.0,-54917.0,0.244
+152647,Senior Technical Account Manager - Strategic Services,ClickUp,Lead/Director,Customer Support,7.0,2,130000.0,169899.0,39899.0,0.307
+152645,Staff Product Manager,ClickUp,Lead/Director,Product & Operations,8.0,2,225000.0,216900.0,-8100.0,0.036
+152640,Staff AI Engineer - AI Product,ClickUp,Senior,Software Engineering,5.0,5,275000.0,132789.0,-142211.0,0.517
+152638,Staff AI Engineer - AI Platform,ClickUp,Senior,Software Engineering,5.0,8,275000.0,172839.0,-102161.0,0.371
+152636,Staff AI Engineer - Multi-Agent Frameworks,ClickUp,Senior,Software Engineering,5.0,2,275000.0,170083.0,-104917.0,0.382
+152634,Senior AI Engineer - AI Product,ClickUp,Senior,Software Engineering,5.0,5,225000.0,132789.0,-92211.0,0.41
+152631,Senior AI Engineer - AI Platform,ClickUp,Senior,Software Engineering,5.0,8,225000.0,172839.0,-52161.0,0.232
+152627,Senior AI Engineer - Multi-Agent Frameworks,ClickUp,Senior,Software Engineering,5.0,2,225000.0,170083.0,-54917.0,0.244
+142519,Senior Data Scientist,Clover Health,Senior,Data Science & Analytics,3.5,5,203450.0,110586.0,-92864.0,0.456
+145308,Pricing and Revenue Planner,Samsara,Unspecified,Finance & Accounting,8.0,5,126540.0,103215.0,-23325.0,0.184
+145336,"Staff Technical Product Manager, Ads ML Platform",Reddit,Senior,Product & Operations,7.0,2,260450.0,220975.0,-39475.0,0.152
+148312,Senior Customer Technical Program Manager - AI Datacenter,NVIDIA,Senior,Project & Program Management,8.0,1,245000.0,141863.0,-103137.0,0.421
+152563,Former Founder,Roboflow,Unspecified,Product & Operations,4.0,3,110000.0,177153.0,67153.0,0.61
+152562,"AI Transformation Owner, CRO",GitLab,Lead/Director,Product & Operations,7.0,1,187200.0,214067.0,26867.0,0.144
+152560,Enterprise Account Executive,Roboflow,Lead/Director,Sales & Marketing,5.0,2,300000.0,163693.0,-136307.0,0.454
+152541,Director of Strategy & Analytics,Beyond Finance,Lead/Director,Data Science & Analytics,10.0,2,174947.0,169564.0,-5383.0,0.031
+152529,Senior Software Engineer (Revenue),Zuora,Senior,Software Engineering,8.0,8,195700.0,187838.0,-7862.0,0.04
+152526,Senior Software Engineer,Zuora,Senior,Software Engineering,8.0,8,195700.0,177801.0,-17899.0,0.091
+152523,Product Security Analyst,HackerOne,Unspecified,Cybersecurity,3.0,1,145000.0,96049.0,-48951.0,0.338
+152505,"Software Engineer, Security, Stablecoin",Ramp,Unspecified,Software Engineering,5.0,5,259500.0,133412.0,-126088.0,0.486
+150166,Senior Lifecycle Marketing Manager,Chime,Senior,Sales & Marketing,8.0,1,150000.0,170826.0,20826.0,0.139
+152496,"Director of Engineering, Cloud & Reliability",Boulevard,Lead/Director,DevOps & Infrastructure,10.0,2,239750.0,192573.0,-47177.0,0.197
+152465,Senior Engineering Manager,Nextiva,Senior,Software Engineering,10.0,1,132500.0,202016.0,69516.0,0.525
+152461,Principal Product Manager (Omnichannel CX),Nextiva,Lead/Director,Product & Operations,6.0,1,165000.0,199780.0,34780.0,0.211
+152416,"Senior Software Engineer, Developer Experience",Thumbtack,Senior,DevOps & Infrastructure,6.0,3,226100.0,163620.0,-62480.0,0.276
+152413,"Sr. Manager, Success Operations",Thumbtack,Lead/Director,Product & Operations,7.0,1,203950.0,214067.0,10117.0,0.05
+149012,Costpoint Cognos Report Writer and General Ledger Business Analyst,ManTech,Mid,Data Science & Analytics,3.0,1,118650.0,77466.0,-41184.0,0.347
+144636,"Audit Planning & Risk Coverage Expert (Director/Analyst, Remote United States)",Gartner,Senior,Finance & Accounting,10.0,1,161750.0,158990.0,-2760.0,0.017
+152395,Framework Software Engineer,ExtraHop,Senior,Software Engineering,4.0,3,152500.0,192868.0,40368.0,0.265
+152376,Major Accounts Manager,RStudio,Senior,Sales & Marketing,4.0,2,279770.0,143407.0,-136363.0,0.487
+152371,"Director, Enterprise Sales",RStudio,Lead/Director,Sales & Marketing,4.0,1,372780.0,141733.0,-231047.0,0.62
+152364,"Director, Product & Segment Marketing Manager",NetDocuments,Lead/Director,Sales & Marketing,7.0,1,232500.0,178691.0,-53809.0,0.231
+147870,Senior Payroll Analyst,DoorDash,Senior,Finance & Accounting,6.0,3,117600.0,92961.0,-24639.0,0.21
+148143,"Senior Software Engineer, Storage",Reddit,Senior,Software Engineering,5.0,6,260450.0,159006.0,-101444.0,0.389
+152354,"Senior Manager, Commercial Capabilities",Juul Labs,Lead/Director,Product & Operations,8.0,1,151000.0,210655.0,59655.0,0.395
+152320,Principal Analytics Engineer,ANGI,Senior,Data Science & Analytics,20.0,4,202500.0,106035.0,-96465.0,0.476
+152319,Director of Data Science and Bioinformatics,Natera,Lead/Director,Data Science & Analytics,10.0,4,209600.0,182080.0,-27520.0,0.131
+152317,Senior Pricing Data Scientist,Fivetran,Lead/Director,Data Science & Analytics,8.0,5,235550.5,152581.0,-82970.0,0.352
+152315,"Senior Data Analyst, GTM",Tremendous,Senior,Data Science & Analytics,5.0,3,200000.0,144101.0,-55899.0,0.279
+152261,"Software Engineer, Content Platform",Reddit,Unspecified,Software Engineering,2.0,7,197050.0,147048.0,-50002.0,0.254
+152250,Staff Software Engineer - Product Security,Maven Clinic,Senior,Cybersecurity,8.0,6,240500.0,258906.0,18406.0,0.077
+152223,Implementation Engineer,Roboflow,Unspecified,Customer Support,4.0,6,175000.0,136716.0,-38284.0,0.219
+152220,Full Stack Engineer (Enterprise),Roboflow,Senior,Software Engineering,5.0,11,180000.0,142504.0,-37496.0,0.208
+152204,Machine Learning Engineer - Inference Maintainer & Developer Experience,Roboflow,Unspecified,Software Engineering,5.0,6,167500.0,136958.0,-30542.0,0.182
+152181,"Staff Software Engineer, AI",YipitData,Senior,Software Engineering,7.0,4,190000.0,208997.0,18997.0,0.1
+152173,Professional Services Engineer,BigID,Lead/Director,Customer Support,3.0,13,100000.0,127589.0,27589.0,0.276
+152167,Principal Product Manager,ClickUp,Lead/Director,Product & Operations,10.0,2,275000.0,237199.0,-37801.0,0.137
+152166,"Manager, Solutions Consulting, AMER Commercial",Braze,Senior,Sales & Marketing,5.0,1,170000.0,151757.0,-18243.0,0.107
+152102,"Software Engineer, Infrastructure Security",OpenAI,Senior,Cybersecurity,5.0,6,307500.0,282442.0,-25058.0,0.081
+152080,Enterprise Account Executive,Quantum Metric,Lead/Director,Sales & Marketing,3.0,1,142500.0,90082.0,-52418.0,0.368
+152076,Deal Desk Analyst,Quantum Metric,Senior,Other,2.0,0,90000.0,70457.0,-19543.0,0.217
+152068,"Manager, Site Reliability Engineering (Auth0)",Okta,Senior,DevOps & Infrastructure,3.0,6,216400.0,123731.0,-92669.0,0.428
+147862,"Staff Software Engineer, Media Experiences",Reddit,Senior,Software Engineering,8.0,1,260000.0,195787.0,-64213.0,0.247
+152061,Director of Product Management - US Remote,PerfectServe,Lead/Director,Product & Operations,9.0,2,180000.0,203344.0,23344.0,0.13
+151977,Solutions Engineering Integration Specialist,Echodyne,Senior,Customer Support,5.0,1,110000.0,101779.0,-8221.0,0.075
+147852,"Principal Analyst, Data Integration",H1,Senior,Data Science & Analytics,12.0,3,157500.0,207945.0,50445.0,0.32
+147750,"Security Software Engineer, IAM",Vercel,Senior,Cybersecurity,7.0,4,260000.0,251411.0,-8589.0,0.033
