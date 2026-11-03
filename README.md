@@ -1,4 +1,4 @@
-# 💼 Salary Predictor & Job Market Analytics
+# 💼 PayLine : Salary Predictor & Job Market Analytics
 
 An end-to-end job-market analytics project that turns public remote-job data into practical salary insights and an interactive prediction experience.
 
