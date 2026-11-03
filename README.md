@@ -183,14 +183,6 @@ The complete interactive report is available here:
 </table>
 
 
-> **📌 Add a Power BI screenshot:** GitHub cannot render pages inside a `.pbix` file. To display a report preview here, export a report page from Power BI Desktop as a PNG or take a screenshot, save it as `charts/powerbi_report.png`, and add the following image below:
->
-> ```markdown
-> <p align="center">
->   <img src="./charts/powerbi_report.png" alt="Power BI report preview" width="900">
-> </p>
-> ```
-
 ## 🔄 Project pipeline
 
 ```mermaid
