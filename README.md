@@ -182,6 +182,26 @@ The complete interactive report is available here:
   </tbody>
 </table>
 
+The report includes the following dashboard pages:
+
+### Job Market Overview
+
+<p align="center">
+ <img src="./charts/powerbi_job_market_overview.png" alt="Power BI Job Market Overview dashboard" width="900">
+</p>
+
+### Trends & Job Details
+
+<p align="center">
+ <img src="./charts/powerbi_trends_job_details.png" alt="Power BI Trends and Job Details dashboard" width="900">
+</p>
+
+### Skills & Salary Analysis
+
+<p align="center">
+ <img src="./charts/powerbi_skills_salary_analysis.png" alt="Power BI Skills and Salary Analysis dashboard" width="900">
+</p>
+
 
 ## 🔄 Project pipeline
 
